@@ -3,10 +3,12 @@ Just change the direct path to the images you want to goto.
 
 
 *How to use*
-1.) Open Automation.py in notepad \n
+1.) Open Automation.py in notepad
+
 
 2.) Change the directories to the images you create
 for the application you want to use, such as ubisoft
+
 
 Then run the code and make sure the application is clicked.
 If you unclick from the application, the variables will be set to none.
