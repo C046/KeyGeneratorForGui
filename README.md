@@ -3,7 +3,7 @@ Just change the direct path to the images you want to goto.
 
 
 *How to use*
-1.) Open Automation.py in notepad
+1.) Open Automation.py in notepad \n
 
 2.) Change the directories to the images you create
 for the application you want to use, such as ubisoft
