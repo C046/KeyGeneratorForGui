@@ -3,6 +3,8 @@ Just change the direct path to the images you want to goto.
 
 
 *How to use*
+
+
 1.) Open Automation.py in notepad
 
 
